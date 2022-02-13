@@ -1,0 +1,40 @@
+package mypackage;
+
+public class LockedMe {
+	public static void main(String[]args) {
+		
+		 displayMenu();
+		
+		
+	}
+public static void displayMenu() {
+	System.out.println("$*******************************$");
+	System.out.println("\t\t Welcome to Locked Me.com ");
+	System.out.println("$******************************$");
+	System.out.println("\t\t1.display all the files");
+	System.out.println("\t\t2.add a file");
+	System.out.println("\t\t3.delete a file");
+	System.out.println("\t\t4.search a file");
+	System.out.println("\t\t5.exit");
+	
+	
+	
+	
+}
+public static void getAllFiles()
+{
+	
+}
+public static void createFiles()
+{
+	
+}
+public static void deleteFiles()
+{
+	
+}
+public static void searchFiles()
+{
+	
+}
+}
